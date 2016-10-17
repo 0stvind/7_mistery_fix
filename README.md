@@ -1,5 +1,6 @@
 # ЗАПУСК
 1.Поместите файл quadratic_equation.py в одну папку с файлом tests.py
+---
 2.Откройте терминал(ubuntu) и введите команду: python3 filepath/quadratic_equation.py, где filepath/quadratic_equation.py - это полный путь к файлу quadratic_equation.py
 # ОПИСАНИЕ
 Программа quadratic_equation.py предназначена для получние корней квадратного уравнения вида ax2 + bx + c = 0
